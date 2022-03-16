@@ -1,3 +1,5 @@
+The app is deployed at https://s-e1.github.io/Todo/ .
+
 # Todo App
 
 This project displays users details, and each of their todos and posts.  
