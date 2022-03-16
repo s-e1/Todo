@@ -14,6 +14,6 @@ A user's border is green if all the todos are completed, and red if not.
 
 ## Structure
 App:  
-  &ensp;  MainScreen -> Searchbar, User  
-  &ensp;  SideScreen -> Todo, Post, AddTodo, AddPost  
-  &ensp;  AddUser  
+&ensp; &ensp; MainScreen -> Searchbar, User  
+&ensp; &ensp; SideScreen -> Todo, Post, AddTodo, AddPost  
+&ensp; &ensp; AddUser  
