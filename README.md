@@ -1,8 +1,8 @@
 # Todo App
 
-This project displays users details, and each of their todos and posts.
-It was made with react, without state management.
-The initial data uses the https://jsonplaceholder.typicode.com/ api.
+This project displays users details, and each of their todos and posts.  
+It was made with react, without state management.  
+The initial data uses the https://jsonplaceholder.typicode.com/ api.  
 
 ## Details
 
@@ -14,6 +14,6 @@ A user's border is green if all the todos are completed, and red if not.
 
 ## Structure
 App:  
-    MainScreen -> Searchbar, User  
-    SideScreen -> Todo, Post, AddTodo, AddPost  
-    AddUser  
+  &ensp;  MainScreen -> Searchbar, User  
+  &ensp;  SideScreen -> Todo, Post, AddTodo, AddPost  
+  &ensp;  AddUser  
