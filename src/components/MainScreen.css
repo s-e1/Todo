@@ -1,0 +1,6 @@
+.left-side {
+    border: black solid 1px;
+    width: 48%;
+    float: left;
+    padding: 5px;
+}

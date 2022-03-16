@@ -1,0 +1,15 @@
+.right-side {
+    width: 48%;
+    float: right;
+    border: black solid 1px;
+    padding: 5px;
+    margin: 7.5px;
+}
+
+.spread {
+    text-align: center;
+}
+
+.spread button {
+    margin: 10px;
+}

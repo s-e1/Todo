@@ -1,0 +1,6 @@
+.side-screen {
+    border: black solid 1px;
+    padding: 5px;
+    width: 48%;
+    float: right;
+}
